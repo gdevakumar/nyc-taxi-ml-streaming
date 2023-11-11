@@ -1,5 +1,5 @@
 import os
-categories = ['yellow', 'green', 'fhv']
+categories = ['yellow', 'green']
 BASE_PATH = "https://d37ci6vzurychx.cloudfront.net/trip-data/"
 for year in range(2021, 2023):
     for month in range(1, 13):
